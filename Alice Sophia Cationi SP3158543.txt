@@ -1,0 +1,45 @@
+﻿TRABALHO SOBRE JUPYTER NOTEBOOK
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Alice Sophia Cationi
+SP3158543
+Prof.Breno Izuo Tashibana
+Disciplina SPOPDS,2024-1
+ O que é Jupyter Notebook 
+O Jupyter Notebook é uma aplicação em código aberto que permite criar e compartilhar documentos que contêm código executável, visualizações e elementos multimídia. O nome "Jupyter" vem de uma combinação de Julia, Python e R, as três linguagens que originalmente eram suportadas, mas hoje suporta muitos outros idiomas. O Jupyter Notebook é amplamente utilizado em data science, análise de dados, aprendizado de máquina e em diversos contextos acadêmicos e científicos.
+Para que serve
+O Jupyter Notebook é uma ferramenta que serve para vários propósitos. Ele permite o desenvolvimento e teste de códigos de forma interativa, com a funcionalidade de células, os usuários podem escrever e executar código em blocos distintos, facilitando a experimentação e a depuração. Além disso, o Jupyter Notebook é excelente para visualização de dados, oferecendo suporte para criar gráficos e visualizações usando bibliotecas como Matplotlib e Seaborn. Isso possibilita a análise visual dos dados e a apresentação clara dos resultados.
+Outra característica importante do Jupyter Notebook é sua capacidade de documentação. Ele permite que os usuários incluam explicações e anotações, o que é fundamental para a criação de tutoriais e a documentação do processo. 
+Como instalar (Windows)
+1. Instalar o Python: Certifique-se de ter o Python instalado. Você pode baixar o Python do site oficial python.org.
+2. A maneira mais comum é usar o pip. Abra o terminal e execute:
+pip install jupyter
+   * Outra opção é instalar através do Anaconda, que é uma distribuição do Python com muitas bibliotecas científicas e o próprio Jupyter Notebook já incluído. 
+   * Após a instalação, você pode iniciar o Jupyter Notebook com o comando:
+jupyter notebook
+   * Isso abrirá uma nova aba no seu navegador com a interface do Jupyter Notebook.
+ Exemplo de Aplicação
+
+
+Small fan control app for ASUS laptops running 64-bit windows
+
+
+A aplicação apresenta é um aplicativo de controle de ventilador (fan control) para laptops ASUS rodando Windows 64-bit, ele controla a velocidade dos ventiladores no laptop de uma forma mais precisa, especialmente útil para modelos que não têm a opção de perfil de ventilador suportada nativamente.
+Referências
+
+
+https://github.com/Karmel0x/AsusFanContro
+https://jupyter.org/
+https://www.databricks.com/br/glossary/jupyter-notebook#:~:text=Quais%20s%C3%A3o%20os%20benef%C3%ADcios%20de,%2C%20markdown%2C%20links%20e%20imagens.
+https://jupyter-notebook.readthedocs.io/en/stable/
+https://www.youtube.com/watch?v=QfmSEzRXN1o
